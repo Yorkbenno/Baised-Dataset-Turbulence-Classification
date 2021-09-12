@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.zip
+*.pt
+train/
+validate/
+*.tar
+Final_things/
